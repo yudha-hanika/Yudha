@@ -1,0 +1,68 @@
+body {
+  /* background-color: #464555; */
+  background-color: #807f8e;
+}
+
+footer {
+  background-color: #35353f;
+}
+.jumbotron {
+  padding-top: 6rem;
+  /* background-color: #27272e; */
+  background-color: #35353f;
+}
+
+section {
+  padding-top: 11rem;
+}
+.home {
+  margin-top: 8%;
+}
+
+.home h1 {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.home p {
+  color: white;
+  line-height: 25px;
+}
+
+.home h1,
+p,
+button {
+  margin-left: 7.3%;
+}
+span {
+  color: #a2a0e2;
+}
+
+.home_img {
+  margin-top: -26%;
+  margin-right: 10%;
+}
+
+.svg {
+  width: 500px;
+  height: 500px;
+  fill: #a2a0e2;
+  padding-top: 100px;
+  padding-left: 160px;
+  margin-left: 3%;
+}
+
+.profil {
+  width: 220px;
+  height: 220px;
+}
+
+.btn-download {
+  background-color: #7773ff;
+  outline: none;
+}
+
+.btn-download:hover {
+  background-color: #706cd4;
+}
